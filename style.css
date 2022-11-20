@@ -1,0 +1,35 @@
+html,
+body {
+    background-color: rgb(236, 214, 205);
+    text-align: center;
+}
+
+#HEAD {
+    background-color: rgb(139, 167, 74);
+    color: rgb(42, 44, 165);
+}
+
+ol li {
+    color: rgb(42, 14, 201);
+    text-align: left;
+}
+
+ul li {
+    color: rgb(5, 136, 44);
+    text-align: left;
+}
+
+#Spisok {
+    color: rgb(34, 36, 6);
+    background-color: rgb(157, 199, 236);
+    text-align: left;
+}
+
+.blue_text {
+    color: rgb(7, 25, 129);
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
